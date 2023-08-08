@@ -16,18 +16,3 @@ It allows the administrator to insert, remove and modify all the sequences neces
 
 ## Therapies
 It allows the administrator to manage therapies for individual patients, inserting new ones or deleting those already created. In any case, it is not possible to modify a therapy that has already been entered. However, it is possible to remove it and insert it again modified. The modification of therapies is a prevented so as to avoid carrying out therapies that could be modified in progress. When started, the application shows the list of therapies already entered sorted by name, surname, email, the progress status and the list of therapies entered. It is only possible to remove a therapy that has already been entered even if it has not yet started.
-
-The process of entering a therapy, from its creation to execution by the Synth* is explained below.
-
-### Ethidea owner's side
-1. Click on the *New Therapy* button.
-2. Insertion of the patient email, choice of therapies list and confirmation.
-3. Status now shows **TODO** (-9).
-
-### Patient's size
-4. The patient receives an email at the email address indicated in point 2. in which confirmation of the list of therapies is requested.
-5. The patient clicks on the link in the email and is directed to the Ethidea service page.
-6. If the patient is already an Ethidea user, then it is possibile to log in application by entering email and password, otherwise registration is required as per the standard process (email and password) followed by confirmation of the email entered by sending an email to the corresponding mailbox.
-
-### Ethidea owner's side
-7. Now the email has been confirmed and the administrator will be able to verify the confirmation on the Therapies webpage.
