@@ -1,7 +1,7 @@
 ---
 layout: default
 title: New Therapy
-nav_order: 2
+nav_order: 3
 ---
 
 This process concerns the insertion of a new therapy as explained in the [introduction](index.md) and is closely linked to the use of the [Therapies](webapplication.md) interface in the WebApplication. 
