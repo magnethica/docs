@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WebApplication
-nav_order: 1
+nav_order: 2
 ---
 
 The WebApplication is a web application that allows the configuration, maintenance, management and control of users, usage and status of the Synths*. The Ethidea WebApplication is exclusive to Ethidea members. Login to the page is allowed only for a user to whom the system administrators (EaziU) have allowed access. A user with administrator permissions is defined as an **administrator** and is able to access and operate within the Ethidea WebApplication. An Ethidea user who uses the service offered by Ethidea itself is defined as a **patient**. It is important to define two words widely used later: **sequence** and **therapy**.
