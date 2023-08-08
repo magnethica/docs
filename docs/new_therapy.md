@@ -1,3 +1,9 @@
+---
+layout: default
+title: New Therapy
+nav_order: 2
+---
+
 This process concerns the insertion of a new therapy as explained in the [introduction](index.md) and is closely linked to the use of the [Therapies](webapplication.md) interface in the WebApplication. 
 The process of entering a therapy, from its creation to execution by the Synth* is explained below.
 
